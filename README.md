@@ -69,12 +69,6 @@ This is a web-based Gym Management System built using **PHP**, **MySQL**, and **
 
 ---
 
-##  Screenshots (optional)
-
-> Add some screenshots of your UI here if you want!
-
----
-
 ## References 
 - ChatGpt
 - Bootstrap
